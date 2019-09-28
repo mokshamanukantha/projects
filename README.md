@@ -1,3 +1,3 @@
 # projects
 
-### Creating annotation processor to generate simple getters and setters.
+### Group for various kind of java, spring, etc... projects.
